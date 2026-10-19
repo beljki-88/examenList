@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+    <item
+        android:id="@+id/opcion_saludo"
+        android:title="saludo"
+        app:showAsAction="never"/>
+
+    <item
+        android:id="@+id/opcion_otro_saludo"
+        android:title="otro saludo"
+        app:showAsAction="never"/>
+
+</menu>
